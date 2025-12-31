@@ -20,29 +20,6 @@ A code cultivator exploring the fundamental unity beneath technological diversit
 
 ## 💡 Core Belief
 
-<div align="center">
-
-const coreBeliefs = {
-    philosophy: "万法虽殊，其源同归",
-    
-    principles: [
-        "Syntax is temporary, concepts are eternal",
-        "Understand the 'why' before the 'how'",
-        "Diverse tools, unified thinking",
-        "Code is poetry, architecture is philosophy"
-    ],
-    
-    approach: {
-        learn: "Breadth first, depth second",
-        build: "Simple first, optimize later",
-        solve: "Understand the essence, not just the symptom"
-    },
-    
-    goal: "Seek patterns, transcend syntax, reach the source"
-};</div>
-
-### 🎯 In Practice
-
 | Belief | Expression |
 |--------|-----------|
 | 🌊 **Polyglot Mindset** | One principle manifests in many languages |
